@@ -1,5 +1,5 @@
 # 🧑‍🚀 About Me:
-E aí, galera! Sou Thiago e tô sempre que dá por aqui no GitHub, pra criar projetos e testar tecnologias novas 💻🚀. Curto uma organização e capricho nos meus repositórios, além de adorar colaborar e ajudar os devs de plantão 🤝.<br><br>Com experiência em front-end, back-end, análise de dados e machine learning 💪, sou um desenvolvedor multifacetado e sempre em busca de novos desafios e oportunidades para crescer como dev 🌟.
+E aí, galera! Sou Thiago e tô sempre que dá por aqui no GitHub, pra criar projetos e testar tecnologias novas 💻🚀. Gosto de uma organização e capricho nos meus repositórios, além de adorar colaborar e ajudar os devs de plantão 🤝.<br><br> Com habilidades sólidas em desenvolvimento front-end, back-end e com histórico em projetos que interagem com APIs, implementam testes abrangentes e otimizam soluções na nuvem 💪, sou um desenvolvedor multifacetado e sempre em busca de novos desafios e oportunidades para crescer como dev 🌟.
 
 
 ## 🌐 Socials:
